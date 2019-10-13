@@ -11,7 +11,7 @@
 	<groupId>com.project</groupId>
 	<artifactId>wall</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>wall</name>
+	<name>project-wall-app</name>
 	<description>project wall app</description>
 
 	<properties>
